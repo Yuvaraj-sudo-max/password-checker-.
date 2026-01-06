@@ -3,6 +3,9 @@
 A simple Python script that checks the strength of a password based on defined validation rules.  
 The goal of this project is to help users create stronger, more secure passwords.
 
+website link
+https://password-strength-bot.lovable.app
+
 ---
 
 ## ✨ Features
